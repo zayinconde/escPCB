@@ -1,0 +1,7 @@
+PCB Design Tips
+
+Via 0.7/0.4
+
+change screw terminal with pads 
+
+motor sensing circuit
