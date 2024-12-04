@@ -18659,7 +18659,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10n"
 			(at 302.514 128.27 0)
 			(effects
 				(font
